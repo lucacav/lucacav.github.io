@@ -17,8 +17,8 @@ main:
    - title: "Selected Research"
      url: /selresearch/ 
   
-  #  - title: "Talks and Seminars"
-  #    url: /talksand/ 
+   - title: "Talks and Seminars"
+     url: /talksand/ 
      
   # - title: "Teaching"
   #   url: /teaching/    
