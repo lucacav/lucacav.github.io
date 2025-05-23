@@ -19,6 +19,9 @@ main:
   
    - title: "Talks and Seminars"
      url: /talksand/ 
+
+   - title: "Resources"
+     url: /res/ 
      
   # - title: "Teaching"
   #   url: /teaching/    

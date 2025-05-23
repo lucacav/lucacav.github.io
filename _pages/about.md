@@ -12,7 +12,7 @@ I hold a Ph.D. in Electronic and Computer Engineering from the University of Gen
 
 ## Research Interests
 
-My main research primarily focuses on information hiding, network security, and the use of AI for threat detection. I am also interested in aspects related to the optimization of Internet-scale computing infrastructures and the management of complex software supply chains. My most recent research topics are:
+My research primarily focuses on information hiding, network security, and the use of AI for threat detection. I am also interested in aspects related to the optimization of Internet-scale computing infrastructures and the management of complex software supply chains. My most recent research topics are:
 
 **Information Hiding**: mitigation of threats trying to hide malicious payloads in digital images (especially via AI-based mechanisms to disrupt cloaked data), definition of IoCs outlining the presence of additional code for unpacking operations, and detection of covert channels.  
 
@@ -24,4 +24,4 @@ My main research primarily focuses on information hiding, network security, and 
 
 ## Collaborations
 
-I am always open to new collaborations or joint projects. I am also seeking for students wanting to do their B.Sc. or M.Sc. theses on my research topic. In case, send me an email. 
+I am always open to new collaborations or joint projects. I am also seeking for students wanting to do their B.Sc. or M.Sc. theses on my research topics. In case, send me an email. 
