@@ -24,4 +24,4 @@ My research primarily focuses on information hiding, network security, and the u
 
 ## Collaborations
 
-I am always open to new collaborations or joint projects. I am also seeking for students wanting to do their B.Sc. or M.Sc. theses on my research topics. In case, send me an email. 
+I am always open to new collaborations or joint projects. I am also seeking for students wanting to do their B.Sc. or M.Sc. theses on my research topics. In case, send me an email.
