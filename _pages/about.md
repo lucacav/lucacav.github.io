@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I hold a Ph.D. in Electronic and Computer Engineering from the University of Genoa, Italy and I am a **Senior Research Scientist** at the Genoa branch of the Institute for Applied Mathematics and Information Technologies "*Enrico Magenes*" of the National Research Council of Italy [(CNR)](https://www.cnr.it). I am a board member for the Ph.D. program in Security, Risk and Vulnerability of the University of Genoa (Cybersecurity and Reliable AI). Currently, I am the head of the IMATI Research Unit of the National Inter-University Consortium for Telecommunications [(CNIT)](https://www.cnit.it) and I serve as an Associate Editor for the IEEE Transactions on Information Forensics and Security [(TIFS)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security). 
+I hold a Ph.D. in Electronic and Computer Engineering from the University of Genoa, Italy and I am a **Research Director** at the Genoa branch of the Institute for Applied Mathematics and Information Technologies "*Enrico Magenes*" of the National Research Council of Italy [(CNR)](https://www.cnr.it). I am a board member for the Ph.D. program in Security, Risk and Vulnerability of the University of Genoa (Cybersecurity and Reliable AI). Currently, I am the head of the IMATI Research Unit of the National Inter-University Consortium for Telecommunications [(CNIT)](https://www.cnit.it) and I serve as an Associate Editor for the IEEE Transactions on Information Forensics and Security [(TIFS)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security). 
 
 ## Research Interests
 
